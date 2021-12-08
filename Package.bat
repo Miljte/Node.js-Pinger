@@ -1,0 +1,1 @@
+npm i tcp-ping-node chalk
