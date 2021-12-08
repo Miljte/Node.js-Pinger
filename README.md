@@ -1,5 +1,5 @@
 # Node.js-Pinger
-> Faster Pinger And Response Time.
+Faster Pinger And Response Time.
 ---
 **🔧 | Setups**
 > #1 Download Files
