@@ -7,4 +7,4 @@
 - #3 Run Start Bat
 - #4 You Done!
 ---
-**Give Us Star**
+⭐️ **Give Us Star** ⭐️
