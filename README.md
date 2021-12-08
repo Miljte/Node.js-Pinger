@@ -3,6 +3,9 @@
 ---
 **🔧 | Setups**
 > #1 Download Files
+
 > #2 Run Package Bat
+
 > #3 Run Start Bat
+
 - You Done!
