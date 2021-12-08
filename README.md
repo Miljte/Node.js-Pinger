@@ -1,7 +1,7 @@
 # Node.js-Pinger
 Faster Pinger And Response Time.
 --
-#Setups:
+- Setups:
 ```
 npm i tcp-ping-node chalk
 ```
