@@ -2,10 +2,9 @@
 
 # Node.js-Pinger
 ## [Discord](https://discord.gg/PC6ku6qQpB)
+The Fastest Pinger You Can See
 
 </div>
-
-## The Fastest Pinger You Can See
 
 ### Features:
 
