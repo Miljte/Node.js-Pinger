@@ -1,6 +1,8 @@
 # Node.js-Pinger
-Faster Pinger And Response Time.
-```
-npm i tcp-ping-node chalk
-```
-- Give Star If You Liked It
+> Faster Pinger And Response Time.
+---
+# 🔧 | Setups
+> #1 Download Files
+> #2 Run Package Bat
+> #3 Run Start Bat
+- You Done!
