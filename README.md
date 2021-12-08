@@ -1,7 +1,7 @@
 # Node.js-Pinger
 - Faster Pinger And Response Time.
 ---
-**🔧 | Setups**
+### 🔧 | Setups:
 > #1 Download Files
 
 > #2 Run Package Bat
